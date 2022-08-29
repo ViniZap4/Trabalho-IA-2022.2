@@ -1,9 +1,15 @@
 # trabalho de Inteligência Artificial
 
 **Professor:** Leandro Romualdo Da Silva
-## Autor
-- **Nome**: _Vinicius Zapalá dos Santos_
-- **RA**: 3019109027
+## Autores
+- _Brenda Aryelle_
+    - **RA**: 3019101902
+- _Felipe Moresqui_
+    - **RA**: 3019100222
+- _Lucas Alves Ribeiro_
+    - **RA**: 3019103813
+- _Vinicius Zapalá dos Santos_
+    - **RA**: 3019109027
 ## Entregas
 - [X] Entrega I
     - leitura dos dados, merge e geração de dataset único.
