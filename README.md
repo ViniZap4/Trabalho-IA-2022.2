@@ -1,2 +1,3 @@
-# TrabalhoIA-2022.2
- Trabalho de intelifgencia artifical
+# trabalho de Inteligência Artificial
+
+**Professor:** Leandro Romualdo Da Silva
