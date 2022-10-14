@@ -13,7 +13,7 @@
 ## Entregas
 - [X] Entrega I
     - leitura dos dados, merge e geração de dataset único.
-- [ ] Entrega II
+- [X] Entrega II
     - Análise exploratória do conjunto de dados e conclusões.
 - [ ] Entrega III
     - Modelo preditivo com tuning de parâmetros + Entregas I e II.
