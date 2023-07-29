@@ -17,5 +17,5 @@
     - Análise exploratória do conjunto de dados e conclusões.
 - [X] Entrega III
     - Modelo preditivo com tuning de parâmetros + Entregas I e II.
-- [ ] Entrega IV
+- [x] Entrega IV
     - Deploy do modelo (API ou aplicação) + Entregas I, II e III.
